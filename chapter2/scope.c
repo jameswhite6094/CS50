@@ -1,4 +1,5 @@
 //New comment
+//Another new comment
 /******
  * LT: I can define procedures and explain their purpose.
  * I can explain the concept of scope and use correct scope
